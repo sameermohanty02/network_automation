@@ -1,0 +1,8 @@
+---
+host_list:
+  - name: "switch1"
+    platform: "ios"
+    command: "show ip int brief"
+  - name: "switch2"
+    platform: "ios"
+    command: "show ip int brief"

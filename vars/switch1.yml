@@ -1,0 +1,14 @@
+---
+switches:
+  - name: "vlan 10"
+    description: "AP"
+    speed: "auto"
+    duplex: "auto"
+  - name: "20"
+    description: "server"
+    speed: "auto"
+    duplex: "auto"
+  - name: "30"
+    description: "camera"
+    speed: "auto"
+    duplex: "auto"
